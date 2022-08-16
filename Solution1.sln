@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigaUtils", "MigaUtils\MigaUtils.csproj", "{D9BB1499-FFB9-4A73-8D90-3FBF8CFB89A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigaUI", "MigaUI\MigaUI.csproj", "{E900A60F-5BE4-4FB3-902B-9BBC2613B115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigaTools.Writer", "MigaTools.Writer\MigaTools.Writer.csproj", "{C2A05393-D7A3-4C87-9D97-03953DCBE35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigaGen.UI", "MigaGen.UI\MigaGen.UI.csproj", "{6EF234BB-5227-4E25-86EA-83507E79D3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9BB1499-FFB9-4A73-8D90-3FBF8CFB89A1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D9BB1499-FFB9-4A73-8D90-3FBF8CFB89A1}.Debug|Any CPU.Build.0 = Debug|x86
+		{D9BB1499-FFB9-4A73-8D90-3FBF8CFB89A1}.Release|Any CPU.ActiveCfg = Release|x86
+		{D9BB1499-FFB9-4A73-8D90-3FBF8CFB89A1}.Release|Any CPU.Build.0 = Release|x86
+		{E900A60F-5BE4-4FB3-902B-9BBC2613B115}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E900A60F-5BE4-4FB3-902B-9BBC2613B115}.Debug|Any CPU.Build.0 = Debug|x86
+		{E900A60F-5BE4-4FB3-902B-9BBC2613B115}.Release|Any CPU.ActiveCfg = Release|x86
+		{E900A60F-5BE4-4FB3-902B-9BBC2613B115}.Release|Any CPU.Build.0 = Release|x86
+		{C2A05393-D7A3-4C87-9D97-03953DCBE35C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C2A05393-D7A3-4C87-9D97-03953DCBE35C}.Debug|Any CPU.Build.0 = Debug|x86
+		{C2A05393-D7A3-4C87-9D97-03953DCBE35C}.Release|Any CPU.ActiveCfg = Release|x86
+		{C2A05393-D7A3-4C87-9D97-03953DCBE35C}.Release|Any CPU.Build.0 = Release|x86
+		{6EF234BB-5227-4E25-86EA-83507E79D3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF234BB-5227-4E25-86EA-83507E79D3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF234BB-5227-4E25-86EA-83507E79D3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF234BB-5227-4E25-86EA-83507E79D3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

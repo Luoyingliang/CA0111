@@ -1,0 +1,16 @@
+﻿<mg:MGApp x:Class="Acorisoft.MigaTools.Writer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Acorisoft.MigaTools.Writer"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:mg="https://www.acorisoft.cn/miga/ui"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MigaUI;component/Themes/Generic.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MigaUI;component/Themes/ColorExt1.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</mg:MGApp>

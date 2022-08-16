@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net6.0-windows</TargetFramework>
+        <Nullable>disable</Nullable>
+        <RootNamespace>Acorisoft.MigaTools.Writer</RootNamespace>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+        <ProjectReference Include="..\MigaGen.UI\MigaGen.UI.csproj" OutputItemType="analyzer" ReferenceOutputAssembly="false" />
+        <ProjectReference Include="..\MigaUI\MigaUI.csproj" />
+        <ProjectReference Include="..\MigaUtils\MigaUtils.csproj" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+        <Folder Include="Models" />
+    </ItemGroup>
+
+</Project>

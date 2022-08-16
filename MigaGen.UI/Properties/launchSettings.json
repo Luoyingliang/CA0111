@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UIGen": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\..\\isx\\MigaUI.Host\\MigaUI.Host.csproj"
+    }
+  }
+}

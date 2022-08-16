@@ -1,0 +1,112 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+
+            <!-- MaterialDesignColor -->
+            <Color x:Key="Colors.MaterialDesign.Red">#F44336</Color>
+            <Color x:Key="Colors.MaterialDesign.Red.Dark">#D32F2F</Color>
+            <Color x:Key="Colors.MaterialDesign.Pink">#E91E63</Color>
+            <Color x:Key="Colors.MaterialDesign.Pink.Dark">#C2185B</Color>
+            <Color x:Key="Colors.MaterialDesign.Purple">#9C27B0</Color>
+            <Color x:Key="Colors.MaterialDesign.Purple.Dark">#7B1FA2</Color>
+            <Color x:Key="Colors.MaterialDesign.DeepPurple">#673AB7</Color>
+            <Color x:Key="Colors.MaterialDesign.DeepPurple.Dark">#512DA8</Color>
+            <Color x:Key="Colors.MaterialDesign.Indigo">#3F51B5</Color>
+            <Color x:Key="Colors.MaterialDesign.Indigo.Dark">#303F9F</Color>
+            <Color x:Key="Colors.MaterialDesign.Blue">#2196F3</Color>
+            <Color x:Key="Colors.MaterialDesign.Blue.Dark">#1976D2</Color>
+            <Color x:Key="Colors.MaterialDesign.LightBlue">#03A9F4</Color>
+            <Color x:Key="Colors.MaterialDesign.LightBlue.Dark">#0288D1</Color>
+            <Color x:Key="Colors.MaterialDesign.Cyan">#00BCD4</Color>
+            <Color x:Key="Colors.MaterialDesign.Cyan.Dark">#0097A7</Color>
+            <Color x:Key="Colors.MaterialDesign.Teal">#009688</Color>
+            <Color x:Key="Colors.MaterialDesign.Teal.Dark">#00796B</Color>
+            <Color x:Key="Colors.MaterialDesign.Green">#4CAF50</Color>
+            <Color x:Key="Colors.MaterialDesign.Green.Dark">#388E3C</Color>
+            <Color x:Key="Colors.MaterialDesign.LightGreen">#8BC34A</Color>
+            <Color x:Key="Colors.MaterialDesign.LightGreen.Dark">#689F38</Color>
+            <Color x:Key="Colors.MaterialDesign.Lime">#CDDC39</Color>
+            <Color x:Key="Colors.MaterialDesign.Lime.Dark">#AFB42B</Color>
+            <Color x:Key="Colors.MaterialDesign.Yellow">#FFEB3B</Color>
+            <Color x:Key="Colors.MaterialDesign.Yellow.Dark">#FBC02D</Color>
+            <Color x:Key="Colors.MaterialDesign.Amber">#FFC107</Color>
+            <Color x:Key="Colors.MaterialDesign.Amber.Dark">#FFA000</Color>
+            <Color x:Key="Colors.MaterialDesign.Orange">#FF9800</Color>
+            <Color x:Key="Colors.MaterialDesign.Orange.Dark">#F57C00</Color>
+            <Color x:Key="Colors.MaterialDesign.DeepOrange">#FF5722</Color>
+            <Color x:Key="Colors.MaterialDesign.DeepOrange.Dark">#E64A19</Color>
+            
+            <!-- 马卡龙色系 -->
+            <SolidColorBrush x:Key="CP3536.A" Color="#555810"/>
+            <SolidColorBrush x:Key="CP3536.B" Color="#aab377"/>
+            <SolidColorBrush x:Key="CP3536.C" Color="#d5dbbc"/>
+            <SolidColorBrush x:Key="CP3536.D" Color="#d3dadf"/>
+            <SolidColorBrush x:Key="CP3536.E" Color="#99a5a5"/>
+
+
+            <SolidColorBrush x:Key="CP3522.A" Color="#bf7e35"/>
+            <SolidColorBrush x:Key="CP3522.B" Color="#dfbe90"/>
+            <SolidColorBrush x:Key="CP3522.C" Color="#e3d2d8"/>
+            <SolidColorBrush x:Key="CP3522.D" Color="#af898e"/>
+            <SolidColorBrush x:Key="CP3522.E" Color="#fa3753"/>
+            
+            <SolidColorBrush x:Key="CP2835.A" Color="#183114"/>
+            <SolidColorBrush x:Key="CP2835.B" Color="#446129"/>
+            <SolidColorBrush x:Key="CP2835.C" Color="#92a65f"/>
+            <SolidColorBrush x:Key="CP2835.D" Color="#f3f4d3"/>
+            <SolidColorBrush x:Key="CP2835.E" Color="#dcde9f"/>
+
+            <SolidColorBrush x:Key="CP4385.A" Color="#3A2F1D"/>
+            <SolidColorBrush x:Key="CP4385.B" Color="#822E46"/>
+            <SolidColorBrush x:Key="CP4385.C" Color="#AE5471"/>
+            <SolidColorBrush x:Key="CP4385.D" Color="#D1829B"/>
+            <SolidColorBrush x:Key="CP4385.E" Color="#D3B1C2"/>
+
+            <SolidColorBrush x:Key="CP3426.A" Color="#546c2a"/>
+            <SolidColorBrush x:Key="CP3426.B" Color="#729037"/>
+            <SolidColorBrush x:Key="CP3426.C" Color="#9ab740"/>
+            <SolidColorBrush x:Key="CP3426.D" Color="#c8d86d"/>
+            <SolidColorBrush x:Key="CP3426.E" Color="#c0cfaf"/>
+
+            <SolidColorBrush x:Key="CP2713.A" Color="#b4756e"/>
+            <SolidColorBrush x:Key="CP2713.B" Color="#dad38f"/>
+            <SolidColorBrush x:Key="CP2713.C" Color="#98a278"/>
+            <SolidColorBrush x:Key="CP2713.D" Color="#9da998"/>
+            <SolidColorBrush x:Key="CP2713.E" Color="#5e534a"/>
+
+
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Red" Color="{StaticResource Colors.MaterialDesign.Red}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Red.Dark" Color="{StaticResource Colors.MaterialDesign.Red.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Pink" Color="{StaticResource Colors.MaterialDesign.Pink}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Pink.Dark" Color="{StaticResource Colors.MaterialDesign.Pink.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Purple" Color="{StaticResource Colors.MaterialDesign.Purple}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Purple.Dark" Color="{StaticResource Colors.MaterialDesign.Purple.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.DeepPurple" Color="{StaticResource Colors.MaterialDesign.DeepPurple}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.DeepPurple.Dark" Color="{StaticResource Colors.MaterialDesign.DeepPurple.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Indigo" Color="{StaticResource Colors.MaterialDesign.Indigo}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Indigo.Dark" Color="{StaticResource Colors.MaterialDesign.Indigo.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Blue" Color="{StaticResource Colors.MaterialDesign.Blue}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Blue.Dark" Color="{StaticResource Colors.MaterialDesign.Blue.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.LightBlue" Color="{StaticResource Colors.MaterialDesign.LightBlue}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.LightBlue.Dark" Color="{StaticResource Colors.MaterialDesign.LightBlue.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Cyan" Color="{StaticResource Colors.MaterialDesign.Cyan}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Cyan.Dark" Color="{StaticResource Colors.MaterialDesign.Cyan.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Teal" Color="{StaticResource Colors.MaterialDesign.Teal}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Teal.Dark" Color="{StaticResource Colors.MaterialDesign.Teal.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Green" Color="{StaticResource Colors.MaterialDesign.Green}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Green.Dark" Color="{StaticResource Colors.MaterialDesign.Green.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.LightGreen" Color="{StaticResource Colors.MaterialDesign.LightGreen}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.LightGreen.Dark" Color="{StaticResource Colors.MaterialDesign.LightGreen.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Lime" Color="{StaticResource Colors.MaterialDesign.Lime}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Lime.Dark" Color="{StaticResource Colors.MaterialDesign.Lime.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Yellow" Color="{StaticResource Colors.MaterialDesign.Yellow}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Yellow.Dark" Color="{StaticResource Colors.MaterialDesign.Yellow.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Amber" Color="{StaticResource Colors.MaterialDesign.Amber}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Amber.Dark" Color="{StaticResource Colors.MaterialDesign.Amber.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Orange" Color="{StaticResource Colors.MaterialDesign.Orange}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.Orange.Dark" Color="{StaticResource Colors.MaterialDesign.Orange.Dark}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.DeepOrange" Color="{StaticResource Colors.MaterialDesign.DeepOrange}"/>
+            <SolidColorBrush x:Key="Brushes.MaterialDesign.DeepOrange.Dark" Color="{StaticResource Colors.MaterialDesign.DeepOrange.Dark}"/>
+
+    
+</ResourceDictionary>
